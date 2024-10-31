@@ -7,7 +7,7 @@ A flutter plugin to get device information such as platform version etc for both
 Add following dependency in pubspec.yaml file:
 
 ```bash
-smart_device_utils:^0.0.2
+smart_device_utils:^0.0.3
 ```
 Install by running:
 

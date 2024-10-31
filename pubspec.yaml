@@ -1,6 +1,6 @@
 name: smart_device_utils
 description: "A flutter plugin to get device information such as platform version etc for both android & iOS."
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/gmehmood1990/smart_device_utils
 
 
